@@ -37,12 +37,12 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 
 **Scheda RFID**    Lettore Schede magnetiche
+
+
+
+
+
 ![5](/IMAGE/5.jpg)
-
-
-
-
-
 
 
 
@@ -62,7 +62,8 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 **-Emoncms.org** è una piattaforma online  per chiunque sia interessato alla programmazione ma soprattutto per l&#39;elaborazione e visualizzazione tramite dashboard e grafici di dati in input come energia, luminosità, temperatura ed in generale dati ambientali.
 
-
+![7](/IMAGE/5.png)
+![8](/IMAGE/5.png)
 
 Per salvare ed elaborare i dati provenienti da alcuni sensori abbiamo usufruito di EMONCMS che, in primo luogo, ci ha permesso di salvare i dati in un server gratuito e di poterli rivedere tramite la sezione &quot;inputs&quot;; in secondo luogo di creare delle &quot;dashboards&quot;, ovvero delle schermate che ti permettono di monitorare in tempo reale l&#39;andamento dei report.
 
