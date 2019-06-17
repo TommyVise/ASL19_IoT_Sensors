@@ -34,7 +34,7 @@ Abbiamo utilizzato :
 **Sensore dht22** = Rileva Umidità(%) e Temperatura(C)
 ![3](/IMAGE/3.jpg)
                                                            
-**Sensore Luminosità** = Rileva Umidità(%) e Temperatura(C)
+**Sensore Luminosità** = Rileva Luminosità(lumen)
 ![4](/IMAGE/4.jpg)
 
 
