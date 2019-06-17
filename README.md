@@ -12,6 +12,7 @@ Abbiamo utilizzato :
 -  sensore DHT22 ( temperatura, umidità )
 -  sensore Luminosità
 -  sensore RFID
+-  schermo LCD
 
   **Wemos d1 mini con:**                                   
 
@@ -36,6 +37,9 @@ Abbiamo utilizzato :
                                                            
 **Sensore Luminosità** = Rileva Luminosità(lumen)
 ![4](/IMAGE/4.jpg)
+
+**Schermo LCD** 
+![13](/IMAGE/13.png)
 
 
 
