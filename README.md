@@ -13,7 +13,7 @@ Abbiamo utilizzato :
 -  sensore Luminosità
 -  sensore RFID
 
-   **Wemos d1 mini con:**                                   
+  **Wemos d1 mini con:**                                   
 
 - sensore DHT22 ( temperatura, umidità )
 
