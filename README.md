@@ -17,26 +17,26 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 
 
-**RaspberryPi**  Il Raspberry Pi è un [single-board computer](https://it.wikipedia.org/wiki/Single-board_computer) sviluppato nel [Regno Unito](https://it.wikipedia.org/wiki/Regno_Unito) dalla [Raspberry Pi Foundation](https://it.wikipedia.org/wiki/Raspberry_Pi_Foundation). La scheda è stata progettata per ospitare sistemi operativi basati sul [kernel](https://it.wikipedia.org/wiki/Kernel) [Linux](https://it.wikipedia.org/wiki/Linux_(kernel)) o [RISC OS](https://it.wikipedia.org/wiki/RISC_OS)
+**RaspberryPi** = Il Raspberry Pi è un [single-board computer](https://it.wikipedia.org/wiki/Single-board_computer) sviluppato nel [Regno Unito](https://it.wikipedia.org/wiki/Regno_Unito) dalla [Raspberry Pi Foundation](https://it.wikipedia.org/wiki/Raspberry_Pi_Foundation). La scheda è stata progettata per ospitare sistemi operativi basati sul [kernel](https://it.wikipedia.org/wiki/Kernel) [Linux](https://it.wikipedia.org/wiki/Linux_(kernel)) o [RISC OS](https://it.wikipedia.org/wiki/RISC_OS)
 ![1](/IMAGE/1.jpg)
 
 
 
 
 
-**Arduino** Arduino è una [piattaforma](https://it.wikipedia.org/wiki/Piattaforma_(informatica)) [hardware](https://it.wikipedia.org/wiki/Hardware) composta da una serie di [schede elettroniche](https://it.wikipedia.org/wiki/Scheda_elettronica) dotate di un [microcontrollore](https://it.wikipedia.org/wiki/Microcontrollore). Con Arduino si possono realizzare in maniera relativamente rapida e semplice piccoli [dispositivi](https://it.wikipedia.org/wiki/Dispositivo_(informatica)) come controllori di luci, di velocità per motori, sensori di luce, automatismi per il controllo della temperatura e dell&#39;umidità e molti altri progetti che utilizzano [sensori](https://it.wikipedia.org/wiki/Sensori), [attuatori](https://it.wikipedia.org/wiki/Attuatori) e comunicazione con altri dispositivi.
+**Arduino** =Arduino è una [piattaforma](https://it.wikipedia.org/wiki/Piattaforma_(informatica)) [hardware](https://it.wikipedia.org/wiki/Hardware) composta da una serie di [schede elettroniche](https://it.wikipedia.org/wiki/Scheda_elettronica) dotate di un [microcontrollore](https://it.wikipedia.org/wiki/Microcontrollore). Con Arduino si possono realizzare in maniera relativamente rapida e semplice piccoli [dispositivi](https://it.wikipedia.org/wiki/Dispositivo_(informatica)) come controllori di luci, di velocità per motori, sensori di luce, automatismi per il controllo della temperatura e dell&#39;umidità e molti altri progetti che utilizzano [sensori](https://it.wikipedia.org/wiki/Sensori), [attuatori](https://it.wikipedia.org/wiki/Attuatori) e comunicazione con altri dispositivi.
 ![2](/IMAGE/2.jpg)
 
 
-**Sensore dht22**  Rileva Umidità(%) e Temperatura(C)
+**Sensore dht22** = Rileva Umidità(%) e Temperatura(C)
 ![3](/IMAGE/3.jpg)
                                                            
-**Sensore Luminosità**  Rileva Umidità(%) e Temperatura(C)
+**Sensore Luminosità** = Rileva Umidità(%) e Temperatura(C)
 ![4](/IMAGE/4.jpg)
 
 
 
-**Scheda RFID**    Lettore Schede magnetiche
+**Scheda RFID** =   Lettore Schede magnetiche
 
 
 
@@ -46,7 +46,7 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 
 
-**Wemos D1 MINI** Il Modulo [WeMos D1 mini ](https://www.adrirobot.it/wemos_d1_mini/wemos_d1_mini.htm)è basato sul microcontrollore Wi-Fi ESP8266 ESP-12F che può essere programmato utilizzando l&#39;IDE di Arduino oppure NodeMCU. La semplicità della programmazione che può essere effettuata anche in modalità wireless e l&#39;ampia disponibilità di shield aggiuntivi permettono di sviluppare il proprio progetto di &quot;Internet delle cose&quot; in tempi estremamente rapidi.
+**Wemos D1 MINI** =Il Modulo [WeMos D1 mini ](https://www.adrirobot.it/wemos_d1_mini/wemos_d1_mini.htm)è basato sul microcontrollore Wi-Fi ESP8266 ESP-12F che può essere programmato utilizzando l&#39;IDE di Arduino oppure NodeMCU. La semplicità della programmazione che può essere effettuata anche in modalità wireless e l&#39;ampia disponibilità di shield aggiuntivi permettono di sviluppare il proprio progetto di &quot;Internet delle cose&quot; in tempi estremamente rapidi.
 ![6](/IMAGE/6.jpg)
 
 
