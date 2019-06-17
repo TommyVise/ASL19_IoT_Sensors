@@ -37,7 +37,7 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 
 **Scheda RFID**    Lettore Schede magnetiche
-
+![5](/IMAGE/5.jpg)
 
 
 
@@ -47,7 +47,7 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 
 **Wemos D1 MINI** Il Modulo [WeMos D1 mini ](https://www.adrirobot.it/wemos_d1_mini/wemos_d1_mini.htm)è basato sul microcontrollore Wi-Fi ESP8266 ESP-12F che può essere programmato utilizzando l&#39;IDE di Arduino oppure NodeMCU. La semplicità della programmazione che può essere effettuata anche in modalità wireless e l&#39;ampia disponibilità di shield aggiuntivi permettono di sviluppare il proprio progetto di &quot;Internet delle cose&quot; in tempi estremamente rapidi.
-
+![6](/IMAGE/6.jpg)
 
 
 
