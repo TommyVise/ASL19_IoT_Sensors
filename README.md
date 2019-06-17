@@ -3,7 +3,7 @@
 
 Abbiamo utilizzato :   **Scheda RaspberryPi**
 
-                                      **Arduino 1**  con :
+  **Scheda Arduino 1**                      
 
 -  sensore DHT22 ( temperatura, umidità )
 -  sensore Luminosità
@@ -12,7 +12,6 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
                                       **Wemos D1 Mini** con:
 
 - sensore DHT22 ( temperatura, umidità )
-
 
 
 
