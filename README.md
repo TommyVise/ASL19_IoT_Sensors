@@ -74,14 +74,11 @@ Per salvare ed elaborare i dati provenienti da alcuni sensori abbiamo usufruito 
 ![9](/IMAGE/9.png)
 Tramite il &quot;flow&quot; in sovraimpressione, prima rivisto e spiegato, arrivano i dati al sensore nel database, qui vengono gestiti e raggruppati in sezioni. Nel nostro caso abbiamo diviso i dati in input in:
 
--Luminosità
-
--Temperatura
-
--Umidità
+* Luminosità
+* Temperatura
+* Umidità
 
 I dati, qualora il sensore fosse sempre attivo, vengono cambiati in tempo reale e sono visibili nella sezione &quot;inputs&quot; di Emoncms.
-
 
 
 Avendo utilizzato 2 sensori, come si può vedere, abbiamo le 3 sezioni per entrambi i sensori, con differenti valori.
