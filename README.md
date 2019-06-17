@@ -29,8 +29,10 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 
 **Sensore dht22**  Rileva Umidità(%) e Temperatura(C)
-
-                                                                                                          **Sensore Luminosità**  Rileva la  luminosità
+![3](/IMAGE/3.jpg)
+                                                           
+**Sensore Luminosità**  Rileva Umidità(%) e Temperatura(C)
+![4](/IMAGE/4.jpg)
 
 
 
