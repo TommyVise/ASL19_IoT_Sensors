@@ -20,7 +20,7 @@ Abbiamo utilizzato :
 
 
 
-**RaspberryPi** = Il Raspberry Pi è un single-board computer sviluppato nel Regno Unito dalla [Raspberry Pi Foundation](https://it.wikipedia.org/wiki/Raspberry_Pi_Foundation). La scheda è stata progettata per ospitare sistemi operativi basati sul [kernel](https://it.wikipedia.org/wiki/Kernel) [Linux](https://it.wikipedia.org/wiki/Linux_(kernel)) o [RISC OS](https://it.wikipedia.org/wiki/RISC_OS)
+**RaspberryPi** = Il Raspberry Pi è un single-board computer sviluppato nel Regno Unito dalla Raspberry Pi Foundation. La scheda è stata progettata per ospitare sistemi operativi basati sul kernel Linux  o RISC OS
 ![1](/IMAGE/1.jpg)
 
 
