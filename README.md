@@ -1,4 +1,4 @@
-# ASL19_IoT_Sensors
+
 ## ASL FabLab Castelfranco Veneto
 
 Abbiamo utilizzato :   **Scheda RaspberryPi**
