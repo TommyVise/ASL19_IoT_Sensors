@@ -39,7 +39,7 @@ Abbiamo utilizzato :
 ![4](/IMAGE/4.jpg)
 
 **Schermo LCD** 
-![13](/IMAGE/13.png)
+![13](/IMAGE/13.jpg)
 
 
 
