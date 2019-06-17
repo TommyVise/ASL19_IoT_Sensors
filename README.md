@@ -72,6 +72,8 @@ Per salvare ed elaborare i dati provenienti da alcuni sensori abbiamo usufruito 
 # Dati in arrivo dal sensore
 
 ![9](/IMAGE/9.png)
+
+
 Tramite il &quot;flow&quot; in sovraimpressione, prima rivisto e spiegato, arrivano i dati al sensore nel database, qui vengono gestiti e raggruppati in sezioni. Nel nostro caso abbiamo diviso i dati in input in:
 
 * Luminosità
