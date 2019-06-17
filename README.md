@@ -27,7 +27,7 @@ Abbiamo utilizzato :
 
 
 
-**Arduino** =Arduino è una piattaforma hardwarecomposta da una serie di schede elettroniche dotate di un microcontrollore. Con Arduino si possono realizzare in maniera relativamente rapida e semplice piccoli dispositivi come controllori di luci, di velocità per motori, sensori di luce, automatismi per il controllo della temperatura e dell&#39;umidità e molti altri progetti che utilizzano sensori, attuatori e comunicazione con altri dispositivi.
+**Arduino** =Arduino è una piattaforma hardware composta da una serie di schede elettroniche dotate di un microcontrollore. Con Arduino si possono realizzare in maniera relativamente rapida e semplice piccoli dispositivi come controllori di luci, di velocità per motori, sensori di luce, automatismi per il controllo della temperatura e dell&#39;umidità e molti altri progetti che utilizzano sensori, attuatori e comunicazione con altri dispositivi.
 ![2](/IMAGE/2.jpg)
 
 
