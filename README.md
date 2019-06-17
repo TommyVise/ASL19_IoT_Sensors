@@ -38,7 +38,9 @@ Abbiamo utilizzato :
 **Sensore Luminosità** = Rileva Luminosità(lumen)
 ![4](/IMAGE/4.jpg)
 
-**Schermo LCD** 
+**Schermo LCD**
+
+
 ![13](/IMAGE/13.jpg)
 
 
