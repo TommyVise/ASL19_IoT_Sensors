@@ -62,15 +62,15 @@ Abbiamo utilizzato :   **Scheda RaspberryPi**
 
 **-Emoncms.org** è una piattaforma online  per chiunque sia interessato alla programmazione ma soprattutto per l&#39;elaborazione e visualizzazione tramite dashboard e grafici di dati in input come energia, luminosità, temperatura ed in generale dati ambientali.
 
-![7](/IMAGE/5.png)
-![8](/IMAGE/5.png)
+![7](/IMAGE/7.png)
+![8](/IMAGE/8.png)
 
 Per salvare ed elaborare i dati provenienti da alcuni sensori abbiamo usufruito di EMONCMS che, in primo luogo, ci ha permesso di salvare i dati in un server gratuito e di poterli rivedere tramite la sezione &quot;inputs&quot;; in secondo luogo di creare delle &quot;dashboards&quot;, ovvero delle schermate che ti permettono di monitorare in tempo reale l&#39;andamento dei report.
 
 1. 1)
 # Dati in arrivo dal sensore
 
-
+![9](/IMAGE/9.png)
 Tramite il &quot;flow&quot; in sovraimpressione, prima rivisto e spiegato, arrivano i dati al sensore nel database, qui vengono gestiti e raggruppati in sezioni. Nel nostro caso abbiamo diviso i dati in input in:
 
 -Luminosità
@@ -88,11 +88,11 @@ Avendo utilizzato 2 sensori, come si può vedere, abbiamo le 3 sezioni per entra
 #
 
 # 2) Feeds
-
+![10](/IMAGE/10.png)
 Le &quot;feeds&quot; gestiscono la memorizzazione dei dati degli input e si occupano di passarli al modulo successivo. Sempre all&#39;interno di questo modulo si può visualizza l&#39;attività di invio dei dati
 
 #  3) Dashboards e visualizzazione finale dei dati
-
+![11](/IMAGE/11.png)
 #
 
 Come potete vedere dall&#39;immagine soprastante, tramite l&#39;utilizzo delle dashboards si è potuti ad arrivare ad un risultato grafico dei dati arrivati in input. Queste dashboards però non sono esportabili, e sono visibili soltanto nel caso in cui si è nella stessa wifi della raspberry e si ha l&#39;account ad emoncms relativo.
