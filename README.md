@@ -57,13 +57,11 @@ Abbiamo utilizzato :
 
 
 
-**SOFTWARE:**
+## **SOFTWARE:**
 
+* **Node-RED** è un software open source per programmare online contemporaneamente ad altre persone sullo stesso hardware creando dei &quot;flow&quot; a blocchi sfruttando principalmente Javascript, MQTT e JSON.
 
-
-**-Node-RED** è un software open source per programmare online contemporaneamente ad altre persone sullo stesso hardware creando dei &quot;flow&quot; a blocchi sfruttando principalmente Javascript, MQTT e JSON.
-
-**-Emoncms.org** è una piattaforma online  per chiunque sia interessato alla programmazione ma soprattutto per l&#39;elaborazione e visualizzazione tramite dashboard e grafici di dati in input come energia, luminosità, temperatura ed in generale dati ambientali.
+* **Emoncms.org** è una piattaforma online  per chiunque sia interessato alla programmazione ma soprattutto per l&#39;elaborazione e visualizzazione tramite dashboard e grafici di dati in input come energia, luminosità, temperatura ed in generale dati ambientali.
 
 ![7](/IMAGE/7.png)
 ![8](/IMAGE/8.png)
