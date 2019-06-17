@@ -45,7 +45,7 @@ Abbiamo utilizzato :
 
 
 
-**Scheda RFID** =   Lettore Schede magnetiche
+**Scheda RFID** =   Tecnologia di riconoscimento univoco e automatico
 
 
 
