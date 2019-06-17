@@ -2,14 +2,14 @@
 ## ASL FabLab Castelfranco Veneto
 
 Abbiamo utilizzato :   **Scheda RaspberryPi**
-
-  **Scheda Arduino 1**                      
+  **Scheda RaspberryPi**
+  **Scheda Arduino 1 con:**                      
 
 -  sensore DHT22 ( temperatura, umidità )
 -  sensore Luminosità
 -  sensore RFID
 
-                                      **Wemos D1 Mini** con:
+   **Wemos d1 mini con:**                                   
 
 - sensore DHT22 ( temperatura, umidità )
 
