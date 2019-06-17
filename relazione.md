@@ -72,7 +72,7 @@ Per salvare ed elaborare i dati provenienti da alcuni sensori abbiamo usufruito 
 # 1) Dati in arrivo dal sensore
 
 ![9](/IMAGE/9.png)
-![10](/IMAGE/10.png)
+
 
 Tramite il &quot;flow&quot; in sovraimpressione, prima rivisto e spiegato, arrivano i dati al sensore nel database, qui vengono gestiti e raggruppati in sezioni. Nel nostro caso abbiamo diviso i dati in input in:
 
@@ -84,7 +84,7 @@ I dati, qualora il sensore fosse sempre attivo, vengono cambiati in tempo reale 
 
 
 Avendo utilizzato 2 sensori, come si può vedere, abbiamo le 3 sezioni per entrambi i sensori, con differenti valori.
-
+![10](/IMAGE/10.png)
 #
 
 # 2) Feeds
