@@ -1,8 +1,12 @@
 
 ## ASL FabLab Castelfranco Veneto
 
-Abbiamo utilizzato :   **Scheda RaspberryPi**
+Abbiamo utilizzato :   
+  
+  
   **Scheda RaspberryPi**
+  
+  
   **Scheda Arduino 1 con:**                      
 
 -  sensore DHT22 ( temperatura, umidità )
