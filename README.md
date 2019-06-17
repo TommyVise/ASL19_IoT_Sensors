@@ -56,7 +56,7 @@ Abbiamo utilizzato :
 
 
 **Wemos D1 MINI** =Il Modulo WeMos D1 mini è basato sul microcontrollore Wi-Fi ESP8266 ESP-12F che può essere programmato utilizzando l&#39;IDE di Arduino oppure NodeMCU. La semplicità della programmazione che può essere effettuata anche in modalità wireless e l&#39;ampia disponibilità di shield aggiuntivi permettono di sviluppare il proprio progetto di &quot;Internet delle cose&quot; in tempi estremamente rapidi.
-![6](/IMAGE/6.jpg)
+![14](/IMAGE/14.jpg)
 
 
 
