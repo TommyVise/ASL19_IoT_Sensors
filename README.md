@@ -92,6 +92,7 @@ Avendo utilizzato 2 sensori, come si può vedere, abbiamo le 3 sezioni per entra
 ![12](/IMAGE/12.png)
 
 Le &quot;feeds&quot; gestiscono la memorizzazione dei dati degli input e si occupano di passarli al modulo successivo. Sempre all&#39;interno di questo modulo si può visualizza l&#39;attività di invio dei dati
+![12](/IMAGE/12.png)
 
 #  3) Dashboards e visualizzazione finale dei dati
 ![11](/IMAGE/11.png)
