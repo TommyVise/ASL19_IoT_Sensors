@@ -69,7 +69,7 @@ Abbiamo utilizzato :
 Per salvare ed elaborare i dati provenienti da alcuni sensori abbiamo usufruito di EMONCMS che, in primo luogo, ci ha permesso di salvare i dati in un server gratuito e di poterli rivedere tramite la sezione &quot;inputs&quot;; in secondo luogo di creare delle &quot;dashboards&quot;, ovvero delle schermate che ti permettono di monitorare in tempo reale l&#39;andamento dei report.
 
 
-# Dati in arrivo dal sensore
+# 1) Dati in arrivo dal sensore
 
 ![9](/IMAGE/9.png)
 
