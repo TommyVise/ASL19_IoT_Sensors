@@ -27,7 +27,7 @@ Abbiamo utilizzato :
 
 
 
-**Arduino** =Arduino è una [piattaforma](https://it.wikipedia.org/wiki/Piattaforma_(informatica)) [hardware](https://it.wikipedia.org/wiki/Hardware) composta da una serie di [schede elettroniche](https://it.wikipedia.org/wiki/Scheda_elettronica) dotate di un [microcontrollore](https://it.wikipedia.org/wiki/Microcontrollore). Con Arduino si possono realizzare in maniera relativamente rapida e semplice piccoli [dispositivi](https://it.wikipedia.org/wiki/Dispositivo_(informatica)) come controllori di luci, di velocità per motori, sensori di luce, automatismi per il controllo della temperatura e dell&#39;umidità e molti altri progetti che utilizzano [sensori](https://it.wikipedia.org/wiki/Sensori), [attuatori](https://it.wikipedia.org/wiki/Attuatori) e comunicazione con altri dispositivi.
+**Arduino** =Arduino è una piattaforma hardwarecomposta da una serie di schede elettroniche dotate di un microcontrollore. Con Arduino si possono realizzare in maniera relativamente rapida e semplice piccoli dispositivi come controllori di luci, di velocità per motori, sensori di luce, automatismi per il controllo della temperatura e dell&#39;umidità e molti altri progetti che utilizzano sensori, attuatori e comunicazione con altri dispositivi.
 ![2](/IMAGE/2.jpg)
 
 
@@ -49,7 +49,7 @@ Abbiamo utilizzato :
 
 
 
-**Wemos D1 MINI** =Il Modulo [WeMos D1 mini ](https://www.adrirobot.it/wemos_d1_mini/wemos_d1_mini.htm)è basato sul microcontrollore Wi-Fi ESP8266 ESP-12F che può essere programmato utilizzando l&#39;IDE di Arduino oppure NodeMCU. La semplicità della programmazione che può essere effettuata anche in modalità wireless e l&#39;ampia disponibilità di shield aggiuntivi permettono di sviluppare il proprio progetto di &quot;Internet delle cose&quot; in tempi estremamente rapidi.
+**Wemos D1 MINI** =Il Modulo WeMos D1 mini è basato sul microcontrollore Wi-Fi ESP8266 ESP-12F che può essere programmato utilizzando l&#39;IDE di Arduino oppure NodeMCU. La semplicità della programmazione che può essere effettuata anche in modalità wireless e l&#39;ampia disponibilità di shield aggiuntivi permettono di sviluppare il proprio progetto di &quot;Internet delle cose&quot; in tempi estremamente rapidi.
 ![6](/IMAGE/6.jpg)
 
 
