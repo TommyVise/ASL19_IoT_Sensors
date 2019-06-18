@@ -45,13 +45,12 @@ Abbiamo utilizzato :
 
 
 
-**Scheda RFID** =   Tecnologia di riconoscimento univoco e automatico
 
 
 
 
 
-![5](/IMAGE/5.jpg)
+
 
 
 
