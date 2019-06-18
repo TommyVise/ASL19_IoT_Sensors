@@ -110,5 +110,5 @@ Come potete vedere dall&#39;immagine soprastante, tramite l&#39;utilizzo delle d
 Anche in questo caso i dati cambiano in tempo reale a sensore attivo.
 
 **Con l'aiuto della stampante laser abbiamo creato le scatole per i nostri progetti**
-![15](/IMAGE/15.JPG)
+![15](/IMAGE/15.png)
 
