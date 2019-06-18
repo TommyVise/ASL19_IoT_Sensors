@@ -108,3 +108,7 @@ Le &quot;feeds&quot; gestiscono la memorizzazione dei dati degli input e si occu
 Come potete vedere dall&#39;immagine soprastante, tramite l&#39;utilizzo delle dashboards si è potuti ad arrivare ad un risultato grafico dei dati arrivati in input. Queste dashboards però non sono esportabili, e sono visibili soltanto nel caso in cui si è nella stessa wifi della raspberry e si ha l&#39;account ad emoncms relativo.
 
 Anche in questo caso i dati cambiano in tempo reale a sensore attivo.
+
+**Con l'aiuto della stamoante l'aser abbiamo creato le scatole per i nostri progetti*
+![15](/IMAGE/15.png)
+
